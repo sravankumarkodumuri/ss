@@ -1,0 +1,11 @@
+com\app\ss\controller\AdminController.class
+com\app\ss\dao\UserDao$1.class
+com\app\ss\controller\LoginController.class
+com\app\ss\test\BCryptTest.class
+com\app\ss\config\SecurityConfig.class
+com\app\ss\config\SecurityWebAppInitializer.class
+com\app\ss\dao\UserDao.class
+com\app\ss\domain\Users.class
+com\app\ss\config\AppInitializer.class
+com\app\ss\config\AppConfig.class
+com\app\ss\domain\Authorities.class
